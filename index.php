@@ -1,2 +1,2 @@
 <?php
-echo 'Nombre: Camila Peralta'
+echo 'Nombre: Camila Peralta';
