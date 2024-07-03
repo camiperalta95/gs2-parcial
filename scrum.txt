@@ -1,0 +1,15 @@
+Actores de scrum:
+Product owner
+Scrum Master
+Team
+Stakholder
+
+Artefactos:
+Backlog
+Sprint Backlog
+
+Ceremonias:
+Daily
+Planning
+Review
+Introespectiva
